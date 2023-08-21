@@ -1110,6 +1110,15 @@
               "actions": [
                 {
                   "type": {
+                    "value": "AjoutObjConcern"
+                  },
+                  "parameters": [
+                    "",
+                    "Player"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "LinkedObjects::RemoveAllLinksOf"
                   },
                   "parameters": [
